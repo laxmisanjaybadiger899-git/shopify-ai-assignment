@@ -68,8 +68,6 @@ Expected Response:
 
 ## Screenshots Included
 
-## Screenshots Included
-
 ### Rails Server Running
 ![Rails Server](rails_api/screenshots/rails_server.png.png)
 
