@@ -19,14 +19,11 @@ The Rails API sends text to the Python service and returns the AI-processed resp
 
 
 ## Project Structure
-## Project Structure
-
-
 
 shopify-ai-assignment/
-├── rails_api/        # Rails backend
-├── ai_service/       # Python FastAPI service
-└── screenshots/      # Screenshots of running services and API test
+- rails_api/        # Rails backend
+- ai_service/       # Python FastAPI service
+- screenshots/      # Screenshots of running services and API test
 
 
 
