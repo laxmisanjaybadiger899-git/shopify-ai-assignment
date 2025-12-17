@@ -67,6 +67,15 @@ Expected Response:
 
 ## Screenshots Included
 
-- rails_server.png
-- python_server.png
-- curl_success.png
+## Screenshots Included
+
+### Rails Server Running
+![Rails Server](rails_api/screenshots/rails_server.png.png)
+
+### Python FastAPI Server Running
+![Python Server](rails_api/screenshots/python_server.png.png)
+
+### Successful API Test (curl)
+![Curl Success](rails_api/screenshots/curl_success.png.png)
+
+
