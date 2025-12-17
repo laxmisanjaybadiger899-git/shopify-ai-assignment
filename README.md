@@ -52,6 +52,7 @@ http://127.0.0.1:3000
 
 ### 3. Test the Integration
 
+
 curl -X POST http://127.0.0.1:3000/analyze ^
 -H "Content-Type: application/json" ^
 -d "{\"text\":\"hello shopify ai\"}"
