@@ -1,0 +1,10 @@
+# Python
+ai_service/venv/
+
+# Ruby
+rails_api/log/
+rails_api/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
