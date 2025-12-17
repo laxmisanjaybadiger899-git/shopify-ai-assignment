@@ -6,7 +6,7 @@ This project demonstrates a simple integration between:
 
 The Rails API sends text to the Python service and returns the AI-processed response.
 
----
+
 
 ## Tech Stack
 
@@ -16,7 +16,7 @@ The Rails API sends text to the Python service and returns the AI-processed resp
 - FastAPI
 - Uvicorn
 
----
+
 
 ## Project Structure
 
@@ -25,7 +25,7 @@ shopify-ai-assignment/
 ├── ai_service/       # Python FastAPI service
 └── screenshots/      # Screenshots of running services and API test
 
----
+
 
 ## How to Run the Project
 
@@ -38,7 +38,7 @@ uvicorn main:app --reload --port 8000
 Python service runs at:
 http://127.0.0.1:8000
 
----
+
 
 ### 2. Start Rails API Server
 
@@ -48,7 +48,7 @@ rails s
 Rails server runs at:
 http://127.0.0.1:3000
 
----
+
 
 ### 3. Test the Integration
 
@@ -63,7 +63,7 @@ Expected Response:
   "ai_result": "HELLO SHOPIFY AI"
 }
 
----
+
 
 ## Screenshots Included
 
