@@ -19,6 +19,9 @@ The Rails API sends text to the Python service and returns the AI-processed resp
 
 
 ## Project Structure
+## Project Structure
+
+
 
 shopify-ai-assignment/
 ├── rails_api/        # Rails backend
